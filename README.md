@@ -21,8 +21,8 @@ Do you need more help? Visit my server here: **https://discord.gg/kQ8CE5GRNg** ð
 Q: `ImportError: numpy.core.multiarray failed to import` how can I fix this?<br>
 A: `pip install -U numpy`
 
-Q: There aren't that many commands here...<br>
-A: Yes, I will only provide a few commands to get you started, maybe adding more later.
+Q: How this dedect the face and eyes?<br>
+A: With opencv library.
 
 # Optional tools
 ### Flake8
